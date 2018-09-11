@@ -120,6 +120,19 @@ ul.skills {
   background: #0399ff;
 }
 
+
+ul.time{
+  padding: 0;
+  text-align: left;
+  list-style-type: none; 
+}
+
+.website{
+  width: 190px;
+  height: 180px;
+  align-items: center;
+}
+
 footer {
   width: 100%;
   min-height: 30px;
